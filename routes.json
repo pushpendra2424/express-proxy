@@ -1,0 +1,17 @@
+{
+    "gateway": {
+        "enabled": true,
+        "services": {
+            "products": {
+                "target": "http://localhost:9091",
+                "auth": true,
+                "enabled": true
+            },
+            "users": {
+                "target": "http://localhost:9092",
+                "auth": true,
+                "enabled": true
+            }
+        }
+    }
+}
