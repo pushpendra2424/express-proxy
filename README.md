@@ -1,6 +1,6 @@
-terminal open and run command : node index.js
-another terminal open and run command : node user.service.js
-another terminal open and run command node : product.service.js
+terminal open and run command : node index
+another terminal open and run command : node user.service
+another terminal open and run command node : product.service
 
 
 login :-
